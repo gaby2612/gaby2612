@@ -1,0 +1,5 @@
+- # Sobre mim
+- 👋 olá meu nome é @gaby2612
+- :+1: Meu email de contato é bastos.gabriele@escola.pr.gov.br
+- 👀 Eu estou interessado em aprender a programas novos linguagens
+- 🌱 Eu estou apredendo a programar recentemente a linguagem JavaScript e Scratc
